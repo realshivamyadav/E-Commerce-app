@@ -1,0 +1,1 @@
+// This file is deprecated and can be safely deleted. Routing is now handled in App.tsx.
